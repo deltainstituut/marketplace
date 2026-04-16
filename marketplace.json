@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "delta-instituut",
+      "description": "Delta Instituut's unified search, deploy & cockpit plugin. Vind alles in mail, chat, documenten en wiki's, deploy content naar preview.deltainstituut.nl, beheer je dagelijkse workflow via de cockpit.",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/deltainstituut/delta-instituut-plugin.git"
+      }
+    }
+  ]
+}
