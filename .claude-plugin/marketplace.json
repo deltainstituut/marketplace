@@ -1,8 +1,19 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "delta-instituut-marketplace",
+  "description": "Plugin marketplace van Delta Instituut",
+  "owner": {
+    "name": "Delta Instituut",
+    "url": "https://deltainstituut.nl"
+  },
   "plugins": [
     {
       "name": "delta-instituut",
       "description": "Delta Instituut's unified search, deploy & cockpit plugin. Vind alles in mail, chat, documenten en wiki's, deploy content naar preview.deltainstituut.nl, beheer je dagelijkse workflow via de cockpit.",
+      "version": "4.3.6",
+      "author": {
+        "name": "Delta Instituut"
+      },
       "source": {
         "type": "git",
         "url": "https://github.com/deltainstituut/delta-instituut-plugin.git"
