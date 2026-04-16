@@ -10,7 +10,8 @@
       "description": "Delta Instituut's unified search, deploy & cockpit plugin. Vind alles in mail, chat, documenten en wiki's, deploy content naar preview.deltainstituut.nl, beheer je dagelijkse workflow via de cockpit.",
       "source": {
         "source": "url",
-        "url": "https://github.com/deltainstituut/delta-instituut-plugin.git"
+        "url": "https://github.com/deltainstituut/delta-instituut-plugin.git",
+        "sha": "49f8fbc4de4625536ddb88c7e2be71a174b984de"
       }
     }
   ]
